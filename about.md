@@ -11,6 +11,7 @@ In addition to the fun things I do on the internet, I also play guitar in two fu
 When I'm not making fun internet things or fun music things, I talk about fun leadership things with [The Caldwell Fellows](http://caldwellfellows.ncsu.edu/).  One time I was the TA for a fun after school program called the [Kids' Cafe as part of the Avent West Community Development Corporation](http://www.aventwest.com/).
 
 That's enough fun for now,
+
 John
 
-PS: You can find the source code for the Jekyll new theme (which this site is currently using) at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+PS: You can find the source code for the Jekyll new theme (which this site is currently using) at [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
