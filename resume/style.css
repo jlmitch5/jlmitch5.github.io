@@ -156,8 +156,17 @@ ul.work_description li {
 /* Responsive media tags */
 @media only screen and (max-width : 690px) {
 	#skills {
-		display: none;
+		margin-top: 15px;
+		padding-top: 25px;
+		width: 100%;
+		border-top: 1px solid #e8e8e8;
 	}
+
+	#skills_column_left, #skills_column_right, #skills_column_far_right  {
+		float: left;
+		width: calc(33% - 5px);
+	}
+
 	#edu_and_work {
 		border: 0;
 		width: 100%;
