@@ -31,6 +31,7 @@ ul ul {
 }
 
 #education {
+	padding-bottom: 25px;
 	border-bottom: 1px solid #e8e8e8;
 }
 
@@ -59,11 +60,12 @@ ul ul {
 }
 
 #education_top_container {
-	height: 160px;
+	display: inline-block;
 }
 
 #education_bottom_container {
-	height: 285px;
+	clear: both;
+	display: inline-block;
 }
 
 h1#work_header {
@@ -76,6 +78,7 @@ h1#work_header {
 
 #education_bottom_container ul li {
 	font-size: 16px;
+	clear: both;
 }
 
 #education_bottom_container ul ul li {
@@ -86,13 +89,14 @@ h1#work_header {
 	float: left;
 	width: calc(50% - 15px);
 	padding-right: 15px;
+	display: block;
 }
 
 #caldwell, #classes_right_column {
 	float: left;
 	width: calc(50% - 15px);
-	height: 50px;
 	padding-left: 15px;
+	display: inline-block;
 }
 
 #caldwell ul li {
@@ -117,11 +121,6 @@ h1#work_header {
 	line-height: 25px;
 }
 
-/*.work_title_and_date {
-	width: calc(50% - 15px);
-	float: right;
-}*/
-
 .work_title_and_date p {
 	margin-top: 5px;
 	font-size: 14px;
@@ -142,4 +141,58 @@ ul.work_description li {
 
 #caldwell_header {
 	height: 130px;
+}
+
+#caldwell_work_title_and_date_right {
+	float: right;
+	width: calc(50% - 15px);
+}
+
+#caldwell_work_title_and_date_left {
+	float: left;
+	width: calc(50% - 15px);
+}
+
+/* Responsive media tags */
+@media only screen and (max-width : 690px) {
+	#skills {
+		display: none;
+	}
+	#edu_and_work {
+		border: 0;
+		width: 100%;
+	}
+	#school, #classes_left_column, #classes_right_column {
+		width: 100%;
+	}
+	#caldwell, #classes_right_column {
+		width: 100%;
+		padding-right: 15px;
+		padding-left: 0;
+	}
+	#classes_left_column ul, #classes_left_column ul ul {
+		width: 100%;
+		margin-bottom: 0;
+	}
+	#work, #education_bottom_container, #education_top_container {
+		margin-left: 0;
+	}
+
+	#edu_and_work h1 {
+		padding-left: 0;
+	}
+
+	#caldwell_work_title_and_date_right, #caldwell_work_title_and_date_left  {
+		width: 100%;
+		margin-bottom: 0;
+		margin-top: 0;
+	}
+
+	#caldwell_work_title_and_date_left  {
+		margin-top: 5px;
+	}
+
+	#caldwell_work_title_and_date_right {
+		margin-bottom: 15px;
+	}
 }
