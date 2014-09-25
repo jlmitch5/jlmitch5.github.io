@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am senior in Computer Science at NC State, graduating in December of 2014.  This site collects some of the cool web things I have done in the past few years.
+I am a senior in Computer Science at NC State, graduating in December of 2014.  This site collects some of the cool web things I have done in the past few years.
 
 In addition to the fun things I do on the internet, I also play guitar in two fun bands: [Less Western](http://lesswestern.bandcamp.com/) and [SMLH](http://smlh.bandcamp.com/).  I also engineer recordings for [WKNC's very fun Lounge Series](https://www.youtube.com/channel/UCO38eRQjqOBURmdsUp4dFwg), and the ultra fun [Naked Naps](http://nakednaps.bandcamp.com/) one time.  One day I will play my non-fun primitive guitar music for y'all and that will not be fun.
 

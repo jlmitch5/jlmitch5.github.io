@@ -1,0 +1,145 @@
+/**
+ * Resume
+ */
+h1 {
+	color: blue;
+}
+
+h1.page-heading {
+	font-size: 2.5em;
+	color: #000;
+}
+
+ul {
+	margin-left: 15px;
+}
+
+ul ul {
+	margin-left: 25px;
+}
+
+#skills {
+    float: left;
+    width: calc(30% - 11px);
+    padding-right: 10px;
+}
+
+#edu_and_work {
+	border-left: 1px solid #e8e8e8;
+	float: right;
+	width: 70%;
+}
+
+#education {
+	border-bottom: 1px solid #e8e8e8;
+}
+
+#edu_and_work h1 {
+	padding-left: 30px;
+}
+
+#skills h2, #education_bottom_container h2 {
+	font-size: 1.25em;
+	line-height: 1.25em;
+	margin-bottom: 5px;
+}
+
+#skills ul ul {
+	margin-bottom: 5px;
+}
+
+#skills ul ul li {
+	font-size: 14px;
+	line-height: 1.75;
+}
+
+#education_top_container, #education_bottom_container {
+	width: calc(100% - 30px);
+	margin-left: 30px;
+}
+
+#education_top_container {
+	height: 160px;
+}
+
+#education_bottom_container {
+	height: 285px;
+}
+
+h1#work_header {
+	padding-top: 20px;
+}
+
+#education_bottom_container ul, #education_bottom_container ul ul {
+	margin-bottom: 0;
+}
+
+#education_bottom_container ul li {
+	font-size: 16px;
+}
+
+#education_bottom_container ul ul li {
+	font-size: 14px;
+}
+
+#school, #classes_left_column {
+	float: left;
+	width: calc(50% - 15px);
+	padding-right: 15px;
+}
+
+#caldwell, #classes_right_column {
+	float: left;
+	width: calc(50% - 15px);
+	height: 50px;
+	padding-left: 15px;
+}
+
+#caldwell ul li {
+	font-size: 14px;
+}
+
+#caldwell p {
+	margin-bottom: 0;
+}
+
+.edu_main, .job_name {
+	font-weight: 400;
+}
+
+#work {
+	width: calc(100% - 30px);
+	margin-left: 30px;
+}
+
+.company h2 {
+	font-size: 20px;
+	line-height: 25px;
+}
+
+/*.work_title_and_date {
+	width: calc(50% - 15px);
+	float: right;
+}*/
+
+.work_title_and_date p {
+	margin-top: 5px;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.work_description ul {
+	width: 100%;
+}
+
+ul.work_description li {
+	font-size: 14px;
+}
+
+.company_header {
+	height: 90px;
+}
+
+#caldwell_header {
+	height: 130px;
+}
