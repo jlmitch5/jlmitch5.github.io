@@ -26,7 +26,8 @@ Don't get me wrong, this story is all about me failing, not the failures of othe
 
 Really what it comes down to is that when working in a group, tears and yelling and failure and stress and all sorts of other negative things can be good...they Are really all just forms of passion.  And all of these things, when looked at through a reflective lens (with the help of something like the Johari Window) can be extracted into something that you can call up in the future to make things work better.
 
-Thanks,
+Thanks for reading all this,
+
 John
 
 PS: I don't think I mentioned it, but it's important...this is the best group I've ever worked with.  Their is no apathy, which is so refreshing.
