@@ -30,4 +30,4 @@ Thanks for reading all this,
 
 John
 
-PS: I don't think I mentioned it, but it's important...this is the best group I've ever worked with.  Their is no apathy, which is so refreshing.
+PS: I don't think I mentioned it, but it's important...this is the best group I've ever worked with.  There is no apathy, which is so refreshing.
