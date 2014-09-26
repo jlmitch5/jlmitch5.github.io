@@ -2,7 +2,7 @@
 layout: post
 title:  "Group dynamics and the Johari Window"
 date:   2014-09-25 20:50:00
-categories: leadership, groups, teaming
+categories: teaming
 ---
 I feel kind of weird posting this, because the people in this scenario could read this, but I feel like it's really important to share this thing I figured out.  Sorry if this is weird for any of y'all (and I'll take it down if you let me know).
 
