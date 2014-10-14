@@ -47,3 +47,34 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+h2.project-title {
+	margin-bottom: 0px;
+}
+
+#post-section {
+	float: right;
+	width: calc(50% - 11px);
+}
+
+#project-section {
+	float: left;
+	padding-right: 10px;
+	width: calc(50% - 20px);
+	border-right: 1px solid #e8e8e8;
+}
+
+@media only screen and (max-width : $on-laptop) {
+	#post-section {
+		float: left;
+		width: 100%;
+	}
+
+	#project-section {
+		float: left;
+		padding-bottom: 20px;
+		width: 100%;
+		border-bottom: 1px solid #e8e8e8;
+		margin-bottom: 20px;
+	}
+}

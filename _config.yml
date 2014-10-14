@@ -12,3 +12,12 @@ github_username:  jlmitch5
 
 # Build settings
 markdown: kramdown
+
+# Adding projects
+collections:
+  projects:
+    output: true
+    title: Projects
+  sandboxes:
+    output: true
+    title: Sandboxes
