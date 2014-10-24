@@ -12,7 +12,7 @@ After wasting time asking her what everything was doing, I started printing out 
 
 That led me to realize that the method that was calling the method I printed would be the next one to check.
 
-So, in case anyone is reading this, I have a great strategy for you when dealing with platform problems.  Like Drake says, you must start from the bottom (ie: the method closest to the end) and work your way to the beginning until you find where the methods which return the same stuff.  Then, you will know the moment which the two platforms first differed is where the problems lie.
+So, in case anyone is reading this, I have a great strategy for you when dealing with platform problems.  Like Drake says, you must start from the bottom (ie: the method closest to the end) and work your way to the beginning until you find which the methods return the same stuff.  Then, you will know the moment which the two platforms first differed is where the problems lie.  Drake refers to this as "here".
 
 Your friend and coding wizard,
 
