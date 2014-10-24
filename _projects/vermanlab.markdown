@@ -20,7 +20,7 @@ I started the project with a bash script which pulled all of the components that
 The project ended up manifesting itself in two client-side applications:
 
 
-1) A diff tool that look at the differences between two kernel versions. This provided the ability to zoom in and out from the module and device level, as well as some simple analytics (ie: Kernel A enables 512 devices that Kernel B doesn't enables).
+1) A diff tool that look at the differences between two kernel versions. This provided the ability to zoom in and out from the module and device level, as well as some simple analytics (ie: Kernel A enables 512 devices that Kernel B doesn't enable).
 
 
 2) A certification tool that could be use to find the earliest version of RHEL 6/7 that supports a specific piece of hardware.  This is useful so that the certification process (ie: Red Hat will support this device if you run into issues) in helping the team figure out where they should "start" their certification process.  If the certification process is started in a later version than when the device was actually enabled, Red Hat could have to redo their certification process if a customer ever needed to support that earlier version.
