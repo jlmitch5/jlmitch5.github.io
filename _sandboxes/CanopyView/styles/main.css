@@ -1,0 +1,18 @@
+body {
+  padding-top: 50px;
+}
+
+#posts {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+ul.selected_post {
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
