@@ -1,0 +1,18 @@
+<?xml version="1.0"?><svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata3298">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer2"/>
+  <g id="layer1">
+   <g id="svg_1">
+    <path fill="none" fill-rule="nonzero" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="rect3162" d="m288.371155,40.093597c32.536194,28.892853 27.625427,50.734894 27.979095,85.707458l1.116913,110.444031l-158.477753,214.705353c-38.351501,57.828552 -12.406738,114.407227 50.496857,111.066162l363.756348,0.332397c67.993042,-0.258667 92.818542,-57.240936 40.126648,-117.28363l-150.328125,-208.286469l-2.829315,-110.62088c-0.353668,-34.972549 -5.705414,-56.729691 26.241058,-86.155914l-198.081726,0.091492z"/>
+    <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" id="path3180" d="m458.973083,105.585938l-54.30838,0"/>
+    <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" d="m458.973083,192.217407l-54.30838,0" id="path3182"/>
+    <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" id="path3184" d="m489.761841,281.94281l-54.30835,0"/>
+    <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" d="m542.786987,351.557373l-54.308411,0" id="path3186"/>
+    <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="4" id="path3188" d="m595.812134,421.171906l-54.308472,0"/>
+   </g>
+  </g>
+ </g>
+</svg>
