@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+  width: 116px;
+  height: 135px;
+}
+.container:hover .filled {
+  height: 80px;
+  transition: height 1s ease;
+}
+.container .filled {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 116px;
+  height: 10px;
+  background-color: red;
+  transform-origin: 20px;
+}
+.container img {
+  position: absolute;
+  z-index: 1;
+}
