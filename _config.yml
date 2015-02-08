@@ -2,7 +2,7 @@
 title: John Mitchell
 email: jlmitch5@ncsu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Front-End Developer at [Ansible](http://www.ansible.com) and a Musician with [Less Western](http://www.lesswestern.bandcamp.com) and [SMLH](http://www.lesswestern.bandcamp.com).  This site collects web things and thoughts.
+  I am a Front-End Developer at Ansible and a guitarist/bassist in Less Western and SMLH.  This site collects web things and thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jlmitch5.github.io" # the base hostname & protocol for your site
 twitter_username: jlmitch5dev
