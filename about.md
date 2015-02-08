@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am a senior in Computer Science at NC State, graduating in December of 2014.  This site collects some of the cool web things I have done in the past few years.
+I am a Front-End Developer at [Ansible](http://www.ansible.com) and a recent NC State graduate of Computer Science.  This site collects web-oriented things and thoughts.
 
-In addition to the fun things I do on the internet, I also play guitar in two fun bands: [Less Western](http://lesswestern.bandcamp.com/) and [SMLH](http://smlh.bandcamp.com/).  I also engineer recordings for [WKNC's very fun Lounge Series](https://www.youtube.com/channel/UCO38eRQjqOBURmdsUp4dFwg), and the ultra fun [Naked Naps](http://nakednaps.bandcamp.com/) one time.  One day I will play my non-fun primitive guitar music for y'all and that will not be fun.
+In addition to the fun things I do on the internet, I also play guitar in two bands: [Less Western](http://lesswestern.bandcamp.com/) and [SMLH](http://smlh.bandcamp.com/).  I've engineered recordings for [WKNC's very fun Lounge Series](https://www.youtube.com/channel/UCO38eRQjqOBURmdsUp4dFwg), Nice Price Books and Records' Shows  and [Naked Naps](http://nakednaps.bandcamp.com/) one time.  I enjoy playing primitive finger-style and pedal-oriented guitar (Shoegaze), as well as krauty Bass lines.
 
-When I'm not making fun internet things or fun music things, I talk about fun leadership things with [The Caldwell Fellows](http://caldwellfellows.ncsu.edu/).  One time I was the TA for a fun after school program called the [Kids' Cafe as part of the Avent West Community Development Corporation](http://www.aventwest.com/).
+When I'm not doing fun internet or music things, I think about leadership thanks to the [Caldwell Fellows](http://caldwellfellows.ncsu.edu/) program.  One time I was the TA for a fun after school program called the [Kids' Cafe as part of the Avent West Community Development Corporation](http://www.aventwest.com/).
 
-That's enough fun for now,
+Thanks for your interest and please don't hesitate to contact me,
 
 John
 
