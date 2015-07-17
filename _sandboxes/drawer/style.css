@@ -1,0 +1,96 @@
+.ScrollShow {
+  width: 500px;
+  height: 200000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+.ScrollShow-nav {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  display: flex;
+  display: -webkit-flex;
+  align-items: flex-end;
+  -webkit-align-items: flex-end;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+
+.ScrollShow-navColor {
+  width: 100%;
+  height: 50px;
+  background-color: green;
+}
+
+.ScrollShow-static {
+  width: 100%;
+  height: 500px;
+  background-color: blue;
+  display: flex;
+  display: -webkit-flex;
+  align-items: flex-end;
+  -webkit-align-items: flex-end;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+
+.ScrollShow-notch {
+  order: 2;
+  -webkit-order: 2;
+  width: 100px;
+  height: 50px;
+  background-color: yellow;
+}
+
+.ScrollShow-cover {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  margin-right: auto;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.ScrollShow-drawer {
+  width: 100%;
+  height: 100px;
+  background-color: yellow;
+}
+
+.ScrollShow-secondDrawer {
+  width: 100%;
+  height: 100px;
+  background-color: purple;
+}
+
+.ScrollShow-secondDrawer2 {
+  float: left;
+  width: 80%;
+  height: 100px;
+  background-color: purple;
+}
+
+.ScrollShow-secondDrawer3 {
+  float: left;
+  width: 60%;
+  height: 100px;
+  background-color: purple;
+}
+
+.ScrollShow-rightDrawer2 {
+  float: right;
+  width: 20%;
+  height: 100px;
+  background-color: teal;
+}
+
+.ScrollShow-rightDrawer3 {
+  float: right;
+  width: 40%;
+  height: 100px;
+  background-color: teal;
+}

@@ -1,0 +1,38 @@
+html	/Users/jmitchell/drawer/index.html	/^<html lang="en">$/;"	function	line:1
+head	/Users/jmitchell/drawer/index.html	/^<head>$/;"	function	line:2
+meta	/Users/jmitchell/drawer/index.html	/^    <meta charset="utf-8">$/;"	function	line:3
+title	/Users/jmitchell/drawer/index.html	/^    <title>Drawer Demo<\/title>$/;"	function	line:5
+meta	/Users/jmitchell/drawer/index.html	/^    <meta name="description" content="The drawer jQuery test bed">$/;"	function	line:6
+meta	/Users/jmitchell/drawer/index.html	/^    <meta name="author" content="John Mitchell">$/;"	function	line:7
+link	/Users/jmitchell/drawer/index.html	/^    <link rel="stylesheet" href=".\/style.css">$/;"	function	line:9
+script	/Users/jmitchell/drawer/index.html	/^    <script src=".\/jquery-2.1.4.js"><\/script>$/;"	function	line:10
+script	/Users/jmitchell/drawer/index.html	/^    <script src=".\/drawer.js"><\/script>$/;"	function	line:11
+body	/Users/jmitchell/drawer/index.html	/^<body>$/;"	function	line:13
+div	/Users/jmitchell/drawer/index.html	/^    <div class="ScrollShow">$/;"	function	line:14
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-nav">$/;"	function	line:15
+div	/Users/jmitchell/drawer/index.html	/^            <div class="ScrollShow-navColor"><\/div>$/;"	function	line:16
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-static">$/;"	function	line:18
+div	/Users/jmitchell/drawer/index.html	/^            <div class="ScrollShow-notch"><\/div>$/;"	function	line:19
+div	/Users/jmitchell/drawer/index.html	/^            <div class="ScrollShow-cover"><\/div>$/;"	function	line:20
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-drawer"><\/div>$/;"	function	line:22
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-secondDrawer"><\/div>$/;"	function	line:23
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-secondDrawer2"><\/div>$/;"	function	line:24
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-rightDrawer2"><\/div>$/;"	function	line:25
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-secondDrawer3"><\/div>$/;"	function	line:26
+div	/Users/jmitchell/drawer/index.html	/^        <div class="ScrollShow-rightDrawer3"><\/div>$/;"	function	line:27
+.ScrollShow	/Users/jmitchell/drawer/style.css	/^.ScrollShow {$/;"	function	line:1
+.ScrollShow-nav	/Users/jmitchell/drawer/style.css	/^.ScrollShow-nav {$/;"	function	line:9
+.ScrollShow-navColor	/Users/jmitchell/drawer/style.css	/^.ScrollShow-navColor {$/;"	function	line:18
+.ScrollShow-static	/Users/jmitchell/drawer/style.css	/^.ScrollShow-static {$/;"	function	line:24
+.ScrollShow-notch	/Users/jmitchell/drawer/style.css	/^.ScrollShow-notch {$/;"	function	line:33
+.ScrollShow-cover	/Users/jmitchell/drawer/style.css	/^.ScrollShow-cover {$/;"	function	line:40
+.ScrollShow-drawer	/Users/jmitchell/drawer/style.css	/^.ScrollShow-drawer {$/;"	function	line:50
+.ScrollShow-secondDrawer	/Users/jmitchell/drawer/style.css	/^.ScrollShow-secondDrawer {$/;"	function	line:56
+.ScrollShow-secondDrawer2	/Users/jmitchell/drawer/style.css	/^.ScrollShow-secondDrawer2 {$/;"	function	line:62
+.ScrollShow-secondDrawer3	/Users/jmitchell/drawer/style.css	/^.ScrollShow-secondDrawer3 {$/;"	function	line:69
+.ScrollShow-rightDrawer2	/Users/jmitchell/drawer/style.css	/^.ScrollShow-rightDrawer2 {$/;"	function	line:76
+.ScrollShow-rightDrawer3	/Users/jmitchell/drawer/style.css	/^.ScrollShow-rightDrawer3 {$/;"	function	line:83
+setDrawerHeight	/Users/jmitchell/drawer/drawer.js	/^$.fn.setDrawerHeight = function(navClass, seed) {$/;"	function	line:3
+newDrawerHeight	/Users/jmitchell/drawer/drawer.js	/^    function newDrawerHeight(nav, drawer, top) {$/;"	function	line:6
+$.fn.setDrawerHeight.newDrawerHeight	/Users/jmitchell/drawer/drawer.js	/^    function newDrawerHeight(nav, drawer, top) {$/;"	function	line:6
+$.fn.setDrawerHeight	/Users/jmitchell/drawer/drawer.js	/^\/\/ calculate the percentage of drawer to show$/;"	function	line:0
