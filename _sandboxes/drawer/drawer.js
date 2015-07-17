@@ -2,7 +2,7 @@
 // based on the display of the nav
 $.fn.setDrawerHeight = function(navClass, seed) {
     seed = seed || 0;
-    
+
     function newDrawerHeight(nav, drawer, top) {
         var show = nav - top,
             hidePercentage;
@@ -30,7 +30,7 @@ $(document).ready(function() {
     $(".ScrollShow-secondDrawer3").setDrawerHeight(".ScrollShow-notch");
     $(".ScrollShow-secondDrawer2").setDrawerHeight(".ScrollShow-cover");
     $(".ScrollShow-secondDrawer").setDrawerHeight(".ScrollShow-static");
-    $(".ScrollShow-navColor").setDrawerHeight(".ScrollShow-nav", 50);
+    $(".ScrollShow-navColor").setDrawerHeight(".ScrollShow-nav", $(".ScrollShow-nav").height());
     $(".ScrollShow-notch").setDrawerHeight(".ScrollShow-nav");
     $(".ScrollShow-cover").setDrawerHeight(".ScrollShow-nav");
     $(".ScrollShow-drawer").setDrawerHeight(".ScrollShow-nav");
