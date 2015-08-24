@@ -20,7 +20,7 @@ ul ul {
 
 #skills {
     float: left;
-    width: calc(30% - 11px);
+    width: calc(30% - 12px);
     padding-right: 10px;
 }
 
